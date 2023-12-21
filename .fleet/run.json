@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Run calculate ral",
+            "type": "command",
+            "program": "sh",
+            "args": [
+                "$USER_HOME$/Documents/Developing/calculate_ral/calculate_ral.sh",
+                "any",
+                "optional",
+                "arguments"
+            ]
+        }
+        
+    ]
+}
