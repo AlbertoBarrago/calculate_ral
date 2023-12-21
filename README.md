@@ -17,7 +17,7 @@ Made for fun, run the script and laugh.
   "type": "command",
   "program": "/bin/bash",
   "args": [
-  "$USER_HOME$/Documents/Developing/calculate_ral/calculate_ral.sh",
+  "$USER_HOME$/calculate_ral.sh",
   "any",
   "optional",
   "arguments"
@@ -30,7 +30,7 @@ Made for fun, run the script and laugh.
 _or_
 
 ``` bash
-sh $PROJECT_FOLTER/calculate_ral.sh
+sh $USER_HOME$/calculate_ral.sh
 ```
 
 *have a fun 😁*
