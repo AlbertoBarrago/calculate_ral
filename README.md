@@ -1,5 +1,5 @@
 ## Calculare RAL
-Made for fun, run the script and laugh.
+Made for fun, run the script and laugh. :-)
 
 ## How to use
 - Clone repo
